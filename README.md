@@ -1,2 +1,2 @@
-# AW2019_project_SQL
- DA course SQL project 
+# AdventureWorks2019 project SQL
+ Data Analyst course, SQL project based on AdventureWorks2019 DB
